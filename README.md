@@ -8,4 +8,3 @@ Developed and applied two new algorithms names AICD for community detection and 
 * B.JAGADANANDA THARAKA
 * M.VISHAL REDDY
 * B.HEMANTH
-========================
